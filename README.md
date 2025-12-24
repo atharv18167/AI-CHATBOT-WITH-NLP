@@ -29,3 +29,7 @@ To avoid incorrect answers, I also implemented a similarity threshold. If the si
 Through this project, I learned many important concepts related to NLP and Python development. I learned how Natural Language Processing works, how text preprocessing improves results, and how word embeddings represent language mathematically. I also gained a clear understanding of cosine similarity and how semantic matching is different from simple keyword matching. In addition, I learned how to structure a real project using JSON data, how to manage Python virtual environments, and how to use Git and GitHub for version control and project sharing.
 
 This chatbot project fulfills all the requirements of the given task. It uses an NLP library, answers user queries, and provides a working Python chatbot application. Although the chatbot is simple, it demonstrates real NLP concepts and can be easily extended with more data, more intents, or even a web interface in the future. Overall, this project helped me build a strong foundation in NLP and practical Python programming and increased my confidence in developing real-world applications.
+
+
+##OUTPUT 
+<img width="1350" height="906" alt="Image" src="https://github.com/user-attachments/assets/1896120c-e02b-4cb8-b2c3-9d681791c693" />
